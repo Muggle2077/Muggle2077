@@ -1,4 +1,4 @@
-I’m Muggle2077, a Minecraft datapack maker. I like to make something new. 
+I’m Muggle2077, a Minecraft datapack maker. 
 
 You can find me at: 
 - Github: https://github.com/Muggle2077
