@@ -2,7 +2,7 @@
 
 I'm Muggle2077. I sometimes make some Minecraft data packs.
 
-You can find me at:
+You can find me on:
 
 | Website | URL |
 | - | - |
