@@ -1,6 +1,6 @@
 # Muggle2077
 
-我是 Muggle2077，Minecraft 数据包作者。
+我是 Muggle2077，有时候会写一些 Minecraft 数据包。
 
 你可以找到我，在：
 
