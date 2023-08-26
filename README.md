@@ -1,6 +1,6 @@
 # Muggle2077
 
-I'm Muggle2077, a Minecraft data pack maker.
+I'm Muggle2077. I sometimes make some Minecraft data packs.
 
 You can find me at:
 
